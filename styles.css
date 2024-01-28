@@ -11,7 +11,7 @@
 }
 
 * {
-    /* border: 1px solid red; */
+    border: 1px solid red;
     /* box-sizing: border-box; */
 }
 
@@ -69,4 +69,8 @@ main > span:first-of-type {
     padding: 5px 10px;
     border-radius: 4px;
     margin: 16px 0 10px 0; 
+}
+
+div:first-of-type {
+    margin-top: 25px;
 }
