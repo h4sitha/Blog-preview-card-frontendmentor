@@ -59,3 +59,7 @@ main > span {
 div > img {
     width: 31px;
 }
+
+p {
+    color: hsl(0, 0%, 50%);
+}
