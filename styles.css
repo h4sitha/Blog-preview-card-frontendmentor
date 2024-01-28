@@ -103,4 +103,16 @@ h1:hover {
         width: 88%;
     }
 
+    h1 {
+        font-size: 1.46rem;
+    }
+
+    span:not(:first-of-type) {
+        font-size: 0.85rem;
+    }
+
+    p {
+        line-height: 23px;
+    }
+
 }
