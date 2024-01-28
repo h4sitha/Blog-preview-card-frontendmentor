@@ -64,6 +64,7 @@ div > img {
 
 p {
     color: hsl(0, 0%, 50%);
+    line-height: 25px;
 }
 
 main > span:first-of-type {
