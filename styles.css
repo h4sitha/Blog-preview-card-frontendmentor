@@ -87,3 +87,8 @@ div:first-of-type {
     gap: 13px;
     margin-bottom: 2px;
 }
+
+h1:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
