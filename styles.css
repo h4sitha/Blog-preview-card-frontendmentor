@@ -19,6 +19,10 @@ body {
     font-family: "Figtree";
     font-weight: 600;
     background-color: hsl(47, 88%, 63%);
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
 }
 
 span, h1 {
