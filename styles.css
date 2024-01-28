@@ -10,9 +10,10 @@
     font-weight: 800;
 }
 
-/* * {
-    border: 1px solid red;
-} */
+* {
+    /* border: 1px solid red; */
+    /* box-sizing: border-box; */
+}
 
 body {
     font-family: "Figtree";
@@ -26,10 +27,11 @@ span, h1 {
 
 main {
     width: 95%;
-    max-width: 350px;
+    max-width: 335px;
     margin: auto;
     background-color: hsl(0, 0%, 100%);
     color: hsl(0, 0%, 7%);
+    padding: 20px;
 }
 
 main > img {
