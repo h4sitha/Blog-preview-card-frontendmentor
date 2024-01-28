@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Figtree";
+    src: url(./assets/fonts/static/Figtree-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src: url(./assets/fonts/static/Figtree-ExtraBold.ttf);
+    font-weight: 800;
+}
+
+body {
+    font-family: "Figtree";
+    font-weight: 600;
+}
+
+span, h1 {
+    font-weight: 800;
+}
