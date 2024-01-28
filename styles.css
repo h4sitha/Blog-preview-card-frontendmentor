@@ -23,6 +23,8 @@ body {
     height: 100vh;
     display: flex;
     align-items: center;
+    flex-direction: column;
+    gap: 5px;
 }
 
 span, h1 {
