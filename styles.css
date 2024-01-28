@@ -10,6 +10,10 @@
     font-weight: 800;
 }
 
+* {
+    border: 1px solid red;
+}
+
 body {
     font-family: "Figtree";
     font-weight: 600;
@@ -18,3 +22,10 @@ body {
 span, h1 {
     font-weight: 800;
 }
+
+main {
+    width: 95%;
+    max-width: 350px;
+    margin: auto;
+}
+
