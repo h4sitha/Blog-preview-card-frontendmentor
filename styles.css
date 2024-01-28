@@ -92,3 +92,15 @@ h1:hover {
     color: hsl(47, 88%, 63%);
     cursor: pointer;
 }
+
+@media (max-width: 376px) {
+
+    html {
+        font-size: 14px;
+    }
+    
+    main {
+        width: 88%;
+    }
+
+}
