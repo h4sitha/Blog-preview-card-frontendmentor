@@ -53,7 +53,7 @@ span:nth-of-type(2) {
 }
 
 main > span {
-    display: block;
+    display: inline-block;
 }
 
 div > img {
@@ -62,4 +62,11 @@ div > img {
 
 p {
     color: hsl(0, 0%, 50%);
+}
+
+main > span:first-of-type {
+    background-color: hsl(47, 88%, 63%);
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin: 16px 0 10px 0; 
 }
