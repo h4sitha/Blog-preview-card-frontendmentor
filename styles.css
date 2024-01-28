@@ -55,3 +55,7 @@ span:nth-of-type(2) {
 main > span {
     display: block;
 }
+
+div > img {
+    width: 31px;
+}
