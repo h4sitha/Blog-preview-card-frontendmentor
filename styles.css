@@ -44,3 +44,7 @@ span {
 span:nth-of-type(2) {
     font-weight: 600;
 }
+
+main > span {
+    display: block;
+}
