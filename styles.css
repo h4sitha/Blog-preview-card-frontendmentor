@@ -115,4 +115,10 @@ h1:hover {
         line-height: 23px;
     }
 
+
+    main > img {
+        height: 55vw;
+        object-fit: cover;
+    }
+
 }
